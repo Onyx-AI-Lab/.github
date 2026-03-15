@@ -1,96 +1,96 @@
 # Onyx-AI-Lab
 
-[English](https://github.com/Onyx-AI-Lab/.github/blob/main/profile/README.en.md)
+[中文](https://github.com/Onyx-AI-Lab/.github/blob/main/profile/README.zh-CN.md)
 
 **Code. Build. Evolve.**
 
-Onyx-AI-Lab 是一个开放实验场，聚集开发者、研究者与创造者，探索 AI 系统、模型能力、Benchmark、开发工具，以及那些从一个想法开始并最终成长为真正软件的实验。
+Onyx-AI-Lab is an open lab for developers, researchers, and builders exploring AI systems, model capabilities, benchmarks, developer tools, and experiments that begin with a simple idea and grow into real software.
 
-## 为什么叫 Onyx
+## Why Onyx
 
-在计算机世界里，一切都从 `0` 和 `1` 开始。
+In computing, everything begins with `0` and `1`.
 
-最原始的机器，只能理解二进制：
+The earliest machines understood only binary:
 
-- `0` 代表沉默
-- `1` 代表响应
+- `0` means silence
+- `1` means response
 
-无数次的开与关、是与否，逐渐构成了今天复杂的数字世界。
+From endless sequences of on and off, yes and no, modern digital systems emerged.
 
-但真正推动技术前进的，从来不是代码本身，而是那些不断探索、测试、提问与构建的人。
+But what truly pushes technology forward is not code alone. It is the people who explore, test, question, and build.
 
-**Onyx** 来自黑色宝石缟玛瑙。它象征着：
+The name **Onyx** comes from the black gemstone. In nature, onyx represents:
 
-- 稳定
-- 力量
-- 深度
-- 经由时间沉淀出的智慧
+- Stability
+- Strength
+- Depth
+- Wisdom shaped by time
 
-这和软件世界很像。在看似简单的二进制背后，隐藏着无限复杂的系统、结构与思想。
+That feels close to how software works too. Behind simple binaries lies enormous complexity, structure, and thought.
 
-## Onyx-AI-Lab 是什么
+## What Onyx-AI-Lab Is
 
-Onyx-AI-Lab 不是传统意义上的公司实验室，而是一群开发者、研究者和创造者的开放试验场。
+Onyx-AI-Lab is not a traditional company lab. It is an open experimental ground for developers, researchers, and creators.
 
-在这里：
+Here:
 
-- 有人探索 AI 与模型能力的边界
-- 有人构建更好的开发工具
-- 有人测试、Benchmark、拆解技术
-- 也有人只是单纯地好奇：如果把某个想法写成代码，会发生什么？
+- Some explore the frontier of AI and model capabilities
+- Some build better developer tools
+- Some test, benchmark, and dissect technology
+- Some are simply curious enough to ask: what happens if this idea becomes code?
 
-Onyx-AI-Lab 的每一个项目，都像一块未经打磨的黑曜石。它可能开始于：
+Every project in Onyx-AI-Lab is like a piece of raw onyx. It may begin as:
 
-- 一个简单脚本
-- 一个小工具
-- 一个粗糙原型
+- a simple script
+- a small tool
+- a rough prototype
 
-也可能在未来成长为真正重要的软件。
+And one day, it may grow into software that truly matters.
 
-因为所有有意义的系统，都曾经只是：
+Because every meaningful system once started as:
 
-- 一行代码
-- 一个想法
-- 一次从 `0` 到 `1` 的实验
+- one line of code
+- one idea
+- one experiment from `0` to `1`
 
-## 我们关注什么
+## What We Explore
 
-我们尤其关注：
+We are especially interested in:
 
-- AI 系统与 Agent 工作流
-- LLM 评测与 Benchmark
-- 模型可靠性、可追踪性与决策系统
-- 开发工具与研究基础设施
-- 将想法连接到代码的实验型产品
+- AI systems and agent workflows
+- LLM evaluation and benchmarking
+- Model reliability, traceability, and decision systems
+- Developer tools and research infrastructure
+- Experimental products that connect ideas to code
 
-## 我们如何工作
+## How We Work
 
-我们相信：
+We believe in:
 
-- 在条件允许时公开构建
-- 保持扎实的技术标准
-- 严肃对待每一次实验
-- 把模糊想法变成具体系统
-- 让原型逐步进化为可靠工具
+- Building in public when possible
+- Keeping strong technical standards
+- Treating experiments seriously
+- Turning vague ideas into concrete systems
+- Evolving from prototypes to durable tools
 
-## 我们的方向
+## Our Direction
 
-Onyx-AI-Lab 服务于那些位于研究与产品之间的项目：
+Onyx-AI-Lab exists for projects that sit between research and product:
 
-- 有些从论文开始
-- 有些从内部工具开始
-- 有些从业余实验开始
-- 有些最终会成长为真正的产品
+- some begin as papers
+- some begin as internal tools
+- some begin as side experiments
+- some eventually become products
 
-但它们都从同一个起点出发：
+All of them start from the same place:
 
-**一个值得被验证的想法。**
+**an idea worth testing.**
 
-## 结语
+## Closing
 
-这里是 Onyx-AI-Lab。
+This is Onyx-AI-Lab.
 
-从二进制到智能。
-从想法到代码。
+From binary to intelligence.
+From idea to code.
 
 **Code. Build. Evolve.**
